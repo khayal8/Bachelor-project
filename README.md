@@ -46,7 +46,9 @@ When not spam:
 
  <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
 
- 
 
-**The project, is just a proof-of-concept of AI integration into Mobile apps, It isn’t a production‑ready messaging solution. And it also was my first time building android app, using android studio.** 
 
+The **dataset** is from https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset 
+
+
+**The project, is just a proof-of-concept of AI integration into Mobile apps, It isn’t a production‑ready messaging solution. additionally, it was my first time building android app, using android studio. Was fun...if we exclude some moments** 
