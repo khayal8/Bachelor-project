@@ -4,7 +4,7 @@ A simple implementation of AI to an Android app, the app in question was created
 
 ## How it works?
 
-1.The Android app runs in the background and listens for incoming SMS notifications.
+1. The Android app runs in the background and listens for incoming SMS notifications.
 2. Upon receiving an SMS, it sends the message text to the Flask server.
 3. The server pre-processes the text (removing stop words, special characters, stemming, tokenization).
 4. The processed text is passed to the trained Naive Bayes model.
