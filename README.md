@@ -13,11 +13,12 @@ A simple implementation of AI to an Android app, the app in question was created
 
    
 
-## **The limitations (drawbacks):**
+## The limitations (drawbacks):
 
 The app and the server must be on the same network. If the SMS is sent to the wrong IP, the classification fails.
 The Android app currently has no GUI, it functions as a background service only.
 The model is trained only on English spam messages.
+
 
 ## The potential (Future possible improvements.)
 
@@ -33,12 +34,13 @@ The model is trained only on English spam messages.
 
 ## How it looks like
 
-1. <img width="540" height="800" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
+When spam: 
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
 
 
 
-
-2. <img width="540" height="800" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
+When not spam:
+ <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
 
  
 
