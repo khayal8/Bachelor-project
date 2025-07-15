@@ -33,16 +33,14 @@ The model is trained only on English spam messages.
 
 ## How it looks like
 
-1. <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
+1. <img width="540" height="800" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
 
 
-2. <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
+
+
+2. <img width="540" height="800" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
 
  
 
-
-
-
 **The project, is just a proof-of-concept of AI integration into Mobile apps, It isn’t a production‑ready messaging solution. And it also was my first time building android app, using android studio.** 
-![Untitled1](https://github.com/user-attachments/assets/ad975e43-cb94-4d3a-a7bc-ad26db978449)
-![Untitled](https://github.com/user-attachments/assets/e3ace8e5-d156-487f-9697-a5bec1b6cd18)
+
