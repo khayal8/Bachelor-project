@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+.Python
+venv/
+env/
+.env
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+
+# Android
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+*.iml
+*.ap_
+*.apk
+*.aab
+*.aar
+*.dex
+*.ecj
+*.lib
+*.so
+*.o
+*.obj
+*.jnilib
+*.class
+*.jar
+*.keystore
+/captures/
+/data/
+/debug.keystore
+/gradle/wrapper/gradle-wrapper.properties.temp
+/lint-results.html
+/lint-results.xml
+/release/
+/test-results/
+/tmp/
+/crash_reports/
+/app/build/
+/app/.cxx/
+/app/.externalNativeBuild/
+/app/.transforms/
+/app/.flutter-plugins
+/app/.flutter-plugins-dependencies
+/app/.android
+/app/src/main/assets/flutter_assets # If using Flutter
+/app/src/main/res/raw
+/app/*.iml
+
+
+.DS_Store
+.vscode/ # VS Code
+*.log
+*.swp # Vim swap
+
