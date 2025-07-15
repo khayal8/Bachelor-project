@@ -8,7 +8,6 @@ from flask_cors import CORS
 
 nltk.download('stopwords')
 
-# Load model and vectorizer
 with open("spam_detector_model.pkl", "rb") as f:
     model = pickle.load(f)
 with open("spam_vectorizer.pkl", "rb") as f:
