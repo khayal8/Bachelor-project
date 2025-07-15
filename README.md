@@ -6,7 +6,7 @@ A simple implementation of AI to an Android app, the app in question was created
 
 1. The Android app runs in the background and listens for incoming SMS notifications.
 2. Upon receiving an SMS, it sends the message text to the Flask server.
-3. The server pre-processes the text (Text cleaning, tokenization,, removing stop words, stemming, ).
+3. The server pre-processes the text (Text cleaning, tokenization, removing stop words, stemming).
 4. The processed text is passed to the trained Naive Bayes model.
 5. The model predicts whether the SMS is spam or not spam.
 6. The result is sent back to the Android app, which results in a notification to be shown on the phone.
