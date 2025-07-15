@@ -35,12 +35,16 @@ The model is trained only on English spam messages.
 ## How it looks like
 
 When spam: 
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
+
+
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/77b79e1e-765d-4731-a038-a671af497f40" />
 
 
 
 When not spam:
- <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
+
+
+ <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/535ff390-d460-4a12-baf0-4eb71dad775b" />
 
  
 
